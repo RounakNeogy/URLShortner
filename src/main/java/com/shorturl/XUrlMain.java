@@ -1,4 +1,4 @@
-package com.crio.shorturl;
+package com.shorturl;
 
 public class XUrlMain {
 
