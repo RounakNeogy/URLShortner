@@ -7,3 +7,6 @@ It is a URL Shortner build with **Java** using **Objected Oriented Programming P
 - Implemented a method to lookup the long URL by providing the short URL.
 - Implemented hit count to track number of long URL lookups.
 - Tested this implementation with test cases.
+
+## sUrl Interface
+
