@@ -1,4 +1,4 @@
-package com.crio.shorturl;
+package com.shorturl;
 
 import java.util.HashMap;
 import java.util.Map;
