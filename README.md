@@ -1,6 +1,6 @@
 # sURL
 ## Introduction
-It is a URL Shortner build with **Java** using **Objected Oriented Programming Practices** and unit tested using **JUnit**
+It is a URL Shortner build with **Java** using **Objected Oriented Programming Practices** and unit testing using **JUnit**
 ## Tasks' completed
 - Created a short url library with required methods.
 - Implemented register method to take a long URL and return a shorter URL.
